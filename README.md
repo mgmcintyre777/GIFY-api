@@ -1,5 +1,7 @@
 # GIFY-api
 Apis & Ajax HW - (HW 6)
+https://mgmcintyre777.github.io/GIFY-api/
+(click to start or stop gifs)
 
 =================================================
 =================================================
